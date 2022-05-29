@@ -405,9 +405,9 @@ const Dashboard = () => {
                     <CTableHeaderCell className="text-center">
                       <CIcon icon={cilPeople} />
                     </CTableHeaderCell>
-                    <CTableHeaderCell>User</CTableHeaderCell>
+                    <CTableHeaderCell>Employee</CTableHeaderCell>
                     <CTableHeaderCell className="text-center">Country</CTableHeaderCell>
-                    <CTableHeaderCell>Usage</CTableHeaderCell>
+                    <CTableHeaderCell>Progress</CTableHeaderCell>
                     <CTableHeaderCell className="text-center">Payment Method</CTableHeaderCell>
                     <CTableHeaderCell>Activity</CTableHeaderCell>
                   </CTableRow>
